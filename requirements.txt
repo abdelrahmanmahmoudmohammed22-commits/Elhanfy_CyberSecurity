@@ -1,0 +1,20 @@
+# LinkShield AI - Backend Dependencies
+
+# Web Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# Machine Learning
+scikit-learn==1.3.2
+numpy==1.26.2
+pandas==2.1.4
+
+# Utilities
+Werkzeug==3.0.1
+click==8.1.7
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+
+# Production Server (optional)
+gunicorn==21.2.0
